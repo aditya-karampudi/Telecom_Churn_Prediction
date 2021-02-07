@@ -84,7 +84,7 @@ height="2.8549595363079616in"}
 
 ![](media/image2.png){width="2.9in" height="2.6554286964129483in"}
 
-## Most selling category of subscription is Monthly contract**
+### Most selling category of subscription is Monthly contract**
 
 As expected most customers prefer Month-to-Month contract. It is also
 interesting to see More people opting Two year plan rather than One year
