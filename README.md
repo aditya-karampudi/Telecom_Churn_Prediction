@@ -78,13 +78,13 @@ out of the crowd Churn to different Network.
 ![](media/image1.png){width="4.322448600174978in"
 height="2.8549595363079616in"}
 
-### ** Highest education level of the customers is High school**
+### Highest education level of the customers is High school
 
 ### **Although school level education has most frequency, looking at the customers education in other levels shows that the most of the customers are highly educated and high school people are just 100 more than other categories which is not by a huge margin.**
 
 ![](media/image2.png){width="2.9in" height="2.6554286964129483in"}
 
-** Most selling category of subscription is Monthly contract**
+## Most selling category of subscription is Monthly contract**
 
 As expected most customers prefer Month-to-Month contract. It is also
 interesting to see More people opting Two year plan rather than One year
