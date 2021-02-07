@@ -75,52 +75,40 @@ Churn Data :
 It can be concluded that the data is Imbalanced as very few customers
 out of the crowd Churn to different Network.
 
-![](media/image1.png){width="4.322448600174978in"
-height="2.8549595363079616in"}
+![](media/image1.png) 
 
 ### Highest education level of the customers is High school
 
-### **Although school level education has most frequency, looking at the customers education in other levels shows that the most of the customers are highly educated and high school people are just 100 more than other categories which is not by a huge margin.**
+### Although school level education has most frequency, looking at the customers education in other levels shows that the most of the customers are highly educated and high school people are just 100 more than other categories which is not by a huge margin.
 
-![](media/image2.png){width="2.9in" height="2.6554286964129483in"}
+![](media/image2.png)
 
-### Most selling category of subscription is Monthly contract**
+### **Most selling category of subscription is Monthly contract**
 
 As expected most customers prefer Month-to-Month contract. It is also
 interesting to see More people opting Two year plan rather than One year
 plan.
 
-![](media/image3.png){width="3.7655293088363955in"
-height="2.9591830708661417in"}
+![](media/image3.png)
 
 ### churn analysis of different education level shows that the Masters level people has the least churn rate 
 
-![](media/image4.png){width="3.6076990376202973in"
-height="3.253061023622047in"}
+![](media/image4.png
 
-### 
-
-### 
-
-### 
 
 ### The churn rate is more with retired customers.
 
-### ![](media/image5.png){width="3.428571741032371in" height="2.7378094925634295in"}
-
-### 
+### ![](media/image5.png) 
 
 ### Logistic Regression -- The most simple and straight forward algorithm's ROC curve is shown below.
 
-### 
 
-![](media/image6.png){width="4.008163823272091in"
-height="2.9346336395450567in"}The following are the Metrics of the
+![](media/image6.png)
+
+The following are the Metrics of the
 Regression model on Train and Test Data respectively.
 
-![](media/image7.png){width="4.302777777777778in"
-height="1.6284722222222223in"}
-
-![](media/image8.png){width="4.305555555555555in"
-height="1.6388888888888888in"}
+![](media/image7.png)
+ 
+![](media/image8.png) 
 
